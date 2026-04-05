@@ -1,10 +1,13 @@
-# 📊 Data Science Assignments
+# 📊 Data Science Assignment (3rd Year / 6th Semester)
 
-This repository contains my **Data Science assignments** completed as part of my coursework.
-All assignments are implemented using **Python**, primarily in **Google Colab / Jupyter Notebook**.
+
+## 👨‍🎓 Submitted By
+- **Name:** Sayyad Saif Ali
+- **Roll Number:** RA2311030030013
 
 ---
 
-# Submitted By-
-Sayyad Saif Ali
-RA2311030030013
+## 👩‍🏫 Submitted To
+- **Faculty:** Ms. Geetanajli Tyagi  
+
+---
